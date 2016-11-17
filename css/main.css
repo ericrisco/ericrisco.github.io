@@ -169,9 +169,8 @@ hr {
 /* Text */
 .level {
   float: right;
-  font-size: 14px;
+  font-size: 12px;
   cursor: default;
-  margin-top: 0px !important;
 }
 
 .techs {
