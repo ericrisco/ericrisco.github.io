@@ -1,0 +1,680 @@
+{
+    "refugis":[
+        {
+            "name_ca": "Refugi Roca de Pimes",
+            "name_es": "Refugio Roca de Pimes",
+            "name_fr": "Refuge Roca de Pimes",
+            "name_en": "Roca de Pimes Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "1",
+
+            "gps_lat": "42.4336111",
+            "gps_lng": "1.5342002",
+
+            "equipment_ca": "Llar de foc, taula i bancs, porxo per a llenya.",
+            "equipment_es": "Chimenea, mesa y bancos, porche para leña.",
+            "equipment_fr": "Cheminée, table et bancs, porche pour le bois de chauffage.",
+            "equipment_en": "Fireplace, table and benches, porch for firewood.",
+
+            "photo": "https://www.ericrisco.com/refugis/rocadepimes.jpg",
+
+            "altitude": "2160 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi de Claror",
+            "name_es": "Refugio de Claror",
+            "name_fr": "Refuge Claror",
+            "name_en": "Claror Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.47",
+            "gps_lng": "1.5647222",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/claror.jpg",
+
+            "altitude": "2280 m.",
+            "beds": "20"
+        },
+        {
+            "name_ca": "Refugi de Perafita",
+            "name_es": "Refugio de Perafita",
+            "name_fr": "Refuge Perafita",
+            "name_en": "Perafita Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "1",
+
+            "gps_lat": "42.4797222",
+            "gps_lng": "1.5767002",
+
+            "equipment_ca": "Llar de foc, taula i bancs, porxo per a llenya.",
+            "equipment_es": "Chimenea, mesa y bancos, porche para leña.",
+            "equipment_fr": "Cheminée, table et bancs, porche pour le bois de chauffage.",
+            "equipment_en": "Fireplace, table and benches, porch for firewood.",
+            
+            "photo": "https://www.ericrisco.com/refugis/perafita.jpg",
+
+            "altitude": "2200 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi Riu dels Orris",
+            "name_es": "Refugio Riu dels Orris",
+            "name_fr": "Refuge Riu dels Orris",
+            "name_en": "Riu dels Orris Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "1",
+
+            "gps_lat": "42.485",
+            "gps_lng": "1.6383669",
+
+            "equipment_ca": "Llar de foc, taula i bancs, porxo per a llenya.",
+            "equipment_es": "Chimenea, mesa y bancos, porche para leña.",
+            "equipment_fr": "Cheminée, table et bancs, porche pour le bois de chauffage.",
+            "equipment_en": "Fireplace, table and benches, porch for firewood.",
+            
+            "photo": "https://www.ericrisco.com/refugis/orris.jpg",
+
+            "altitude": "2230 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi de Pla de les Pedres",
+            "name_es": "Refugio de Pla de les Pedres",
+            "name_fr": "Refuge Pla de les Pedres",
+            "name_en": "Pla de les Pedres Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "0",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5536111",
+            "gps_lng": "1.6772557",
+
+            "equipment_ca": "Porxo ample a l'entrada.",
+            "equipment_es": "Porche ancho en la entrada.",
+            "equipment_fr": "Large porche à l'entrée.",
+            "equipment_en": "Wide porch at the entrance.",
+
+            "photo": "https://www.ericrisco.com/refugis/pladelespedres.jpg",
+
+            "altitude": "2150 m.",
+            "beds": "5"
+        },
+        {
+            "name_ca": "Refugi de Siscaró",
+            "name_es": "Refugio de Siscaró",
+            "name_fr": "Refuge Siscaró",
+            "name_en": "Siscaró Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.595",
+            "gps_lng": "1.704478",
+
+            "equipment_ca": "Llar de foc i aigua al costat.",
+            "equipment_es": "Chimenea y agua al lado",
+            "equipment_fr": "Cheminée et eau",
+            "equipment_en": "Fireplace and water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/siscaro.jpg",
+
+            "altitude": "2145 m.",
+            "beds": "10"
+        },
+        {
+            "name_ca": "Refugi de Cabana Sorda",
+            "name_es": "Refugio de Cabana Sorda",
+            "name_fr": "Refuge Cabana Sorda",
+            "name_en": "Cabana Sorda Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.6113889",
+            "gps_lng": "1.6708669",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/cabanasorda.jpg",
+
+            "altitude": "2295 m.",
+            "beds": "20"
+        },
+        {
+            "name_ca": "Refugi de Cóms de Jan",
+            "name_es": "Refugio de Cóms de Jan",
+            "name_fr": "Refuge Cóms de Jan",
+            "name_en": "Cóms de Jan Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.6183333",
+            "gps_lng": "1.6372557",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/comsdejan.jpg",
+
+            "altitude": "2215 m.",
+            "beds": "10"
+        },
+        {
+            "name_ca": "Refugi de l'Angonella",
+            "name_es": "Refugio de la Angonella",
+            "name_fr": "Refuge Angonella",
+            "name_en": "Angonella Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.6080556",
+            "gps_lng": "1.494478",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/angonella.jpg",
+
+            "altitude": "2235 m.",
+            "beds": "6"
+        },
+        {
+            "name_ca": "Refugi de les Fonts",
+            "name_es": "Refugio de les Fonts",
+            "name_fr": "Refuge de les Fonts",
+            "name_en": "Fonts Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.59",
+            "gps_lng": "1.4775335",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/fonts.jpg",
+
+            "altitude": "2195 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi del Pla de l'Estany",
+            "name_es": "Refugio del Pla de l'Estany",
+            "name_fr": "Refuge Pla de l'Estany",
+            "name_en": "Pla de l'Estany Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5938889",
+            "gps_lng": "1.4589224",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/estany.jpg",
+
+            "altitude": "2050 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi de Fontverd",
+            "name_es": "Refugio de Fontverd",
+            "name_fr": "Refuge Fontverd",
+            "name_en": "Fontverd Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.4919444",
+            "gps_lng": "1.5930891",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/fontverd.jpg",
+
+            "altitude": "1880 m.",
+            "beds": "14"
+        },
+        {
+            "name_ca": "Refugi de la Portella",
+            "name_es": "Refugio de la Portella",
+            "name_fr": "Refuge de la Portella",
+            "name_en": "Portella Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5719444",
+            "gps_lng": "1.7189224",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/portella.jpg",
+
+            "altitude": "2265 m.",
+            "beds": "6"
+        },
+        {
+            "name_ca": "Refugi de la Vall del Riu",
+            "name_es": "Refugio de la Vall del Riu",
+            "name_fr": "Refuge de la Vall del Riu",
+            "name_en": "Vall del Riu Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5956392",
+            "gps_lng": "1.6131977",
+
+            "equipment_ca": "Llar de foc",
+            "equipment_es": "Chimenea",
+            "equipment_fr": "Cheminée",
+            "equipment_en": "Fireplace",
+
+            "photo": "https://www.ericrisco.com/refugis/valldelriu.jpg",
+
+            "altitude": "2160 m.",
+            "beds": "10"
+        },
+        {
+            "name_ca": "Refugi de Ribaescorjada",
+            "name_es": "Refugio de Ribaescorjada",
+            "name_fr": "Refuge de Ribaescorjada",
+            "name_en": "Ribaescorjada Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5675",
+            "gps_lng": "1.6397557",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/ribaescorjada.jpg",
+
+            "altitude": "2075 m.",
+            "beds": "6"
+        },
+        {
+            "name_ca": "Refugi de Montmalús",
+            "name_es": "Refugio de Montmalús",
+            "name_fr": "Refuge de Montmalús",
+            "name_en": "Montmalús Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.4991667",
+            "gps_lng": "1.6792002",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/montmalus.jpg",
+
+            "altitude": "2445 m.",
+            "beds": "10"
+        },
+        {
+            "name_ca": "Refugi dels Agols",
+            "name_es": "Refugio dels Agols",
+            "name_fr": "Refuge Agols",
+            "name_en": "Agols Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5111111",
+            "gps_lng": "1.6075335",
+
+            "equipment_ca": "Llar de foc, taula i bancs.",
+            "equipment_es": "Chimenea, mesa y bancos.",
+            "equipment_fr": "Cheminée, table et bancs.",
+            "equipment_en": "Fireplace, table and benches.",
+
+            "photo": "https://www.ericrisco.com/refugis/agols.jpg",
+
+            "altitude": "2230 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi d'Ensagents",
+            "name_es": "Refugio de Ensagents",
+            "name_fr": "Refuge Ensagents",
+            "name_en": "Ensagents Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.5169444",
+            "gps_lng": "1.6405891",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/ensagents.jpg",
+
+            "altitude": "2425 m.",
+            "beds": "14"
+        },
+        {
+            "name_ca": "Refugi de Rialb",
+            "name_es": "Refugio de Rialb",
+            "name_fr": "Refuge Rialb",
+            "name_en": "Rialb Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "1",
+
+            "gps_lat": "42.6411111",
+            "gps_lng": "1.5597557",
+
+            "equipment_ca": "Llar de foc, taula i bancs, porxo per a llenya.",
+            "equipment_es": "Chimenea, mesa y bancos, porche para leña.",
+            "equipment_fr": "Cheminée, table et bancs, porche pour le bois de chauffage.",
+            "equipment_en": "Fireplace, table and benches, porch for firewood.",
+
+            "photo": "https://www.ericrisco.com/refugis/rialb.jpg",
+
+            "altitude": "1990 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi de Comaubaga",
+            "name_es": "Refugio de Comaubaga",
+            "name_fr": "Refuge Comaubaga",
+            "name_en": "Comaubaga Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.6066667",
+            "gps_lng": "1.5489224",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/comaubaga.jpg",
+
+            "altitude": "2015 m.",
+            "beds": "15"
+        },
+        {
+            "name_ca": "Refugi de Prat Primer",
+            "name_es": "Refugio de Prat Primer",
+            "name_fr": "Refuge Prat Primer",
+            "name_en": "Prat Primer Hut",
+
+            "open": "1",
+            "water": "0",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "1",
+
+            "gps_lat": "42.4783333",
+            "gps_lng": "1.5486446",
+
+            "equipment_ca": "Llar de foc, taula i bancs, porxo per a llenya.",
+            "equipment_es": "Chimenea, mesa y bancos, porche para leña.",
+            "equipment_fr": "Cheminée, table et bancs, porche pour le bois de chauffage.",
+            "equipment_en": "Fireplace, table and benches, porch for firewood.",
+
+            "photo": "https://www.ericrisco.com/refugis/pratprimer.jpg",
+
+            "altitude": "2235 m.",
+            "beds": "6+4"
+        },
+        {
+            "name_ca": "Refugi de Francolí",
+            "name_es": "Refugio de Francolí",
+            "name_fr": "Refuge Francolí",
+            "name_en": "Francolí Hut",
+
+            "open": "1",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "0",
+            "bar": "0",
+            "wood": "0",
+
+            "gps_lat": "42.49",
+            "gps_lng": "1.4247557",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche",
+            "equipment_en": "Fireplace, table and benches. Water near.",
+
+            "photo": "https://www.ericrisco.com/refugis/francoli.jpg",
+
+            "altitude": "1865 m.",
+            "beds": "6"
+        },
+        {
+            "name_ca": "Refugi de Juclà",
+            "name_es": "Refugio de Juclà",
+            "name_fr": "Refuge Juclà",
+            "name_en": "Juclà Hut",
+
+            "open": "0",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "1",
+            "bar": "1",
+            "wood": "1",
+
+            "gps_lat": "42.6075",
+            "gps_lng": "1.7142002",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches.",
+            "equipment_en": "Fireplace, table and benches. Water near, bar, food, showers.",
+
+            "photo": "https://www.ericrisco.com/refugis/jucla.jpg",
+
+            "altitude": "2310 m.",
+            "beds": "50"
+        },
+        {
+            "name_ca": "Refugi de Sorteny",
+            "name_es": "Refugio de Sorteny",
+            "name_fr": "Refuge Sorteny",
+            "name_en": "Sorteny Hut",
+
+            "open": "0",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "1",
+            "bar": "1",
+            "wood": "1",
+
+            "gps_lat": "42.6225",
+            "gps_lng": "1.5625335",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches.",
+            "equipment_en": "Fireplace, table and benches. Water near, bar, food, showers.",
+
+            "photo": "https://www.ericrisco.com/refugis/sorteny.jpg",
+
+            "altitude": "1965 m.",
+            "beds": "50"
+        },
+        {
+            "name_ca": "Refugi de Comapedrosa",
+            "name_es": "Refugio de Comapedrosa",
+            "name_fr": "Refuge Comapedrosa",
+            "name_en": "Comapedrosa Hut",
+
+            "open": "0",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "1",
+            "bar": "1",
+            "wood": "1",
+
+            "gps_lat": "42.5788889",
+            "gps_lng": "1.4478113",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches.",
+            "equipment_en": "Fireplace, table and benches. Water near, bar, food, showers.",
+
+            "photo": "https://www.ericrisco.com/refugis/comapedrosa.jpg",
+
+            "altitude": "2265 m.",
+            "beds": "50"
+        },
+        {
+            "name_ca": "Refugi de l'Illa",
+            "name_es": "Refugio de l'Illa",
+            "name_fr": "Refuge Illa",
+            "name_en": "Illa Hut",
+
+            "open": "0",
+            "water": "1",
+            "fireplace": "1",
+            "pay": "1",
+            "bar": "1",
+            "wood": "1",
+
+            "gps_lat": "42.495007",
+            "gps_lng": "1.656434",
+
+            "equipment_ca": "Llar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes.",
+            "equipment_es": "Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas.",
+            "equipment_fr": "Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches.",
+            "equipment_en": "Fireplace, table and benches. Water near, bar, food, showers.",
+
+            "photo": "https://www.ericrisco.com/refugis/illa.jpg",
+
+            "altitude": "2488 m.",
+            "beds": "42"
+        }
+    ]
+}
