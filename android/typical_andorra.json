@@ -2,51 +2,75 @@
     "platos":[
         {
             "nombre": "Trinxat",
-            "tipo": 1
+            "tipo": 1,
+            "precio": "5",
+            "alergenos": []
         },
         {
             "nombre": "Amanida de xicoies",
-            "tipo": 1
+            "tipo": 1,
+            "precio": "4",
+            "alergenos": []
         },
         {
             "nombre": "Cargols a la Llauna",
-            "tipo": 1
+            "tipo": 1,
+            "precio": "6",
+            "alergenos": [ 1 ] 
         },
         {
             "nombre": "Escudella",
-            "tipo": 1
+            "tipo": 1,
+            "precio": "7",
+            "alergenos": [ 1 , 2, 3 ] 
         },
         {
             "nombre": "Botifarra amb seques",
-            "tipo": 2
+            "tipo": 2,
+            "precio": "6",
+            "alergenos": [ 1, 4 ] 
         },
         {
             "nombre": "Arròs de muntanya",
-            "tipo": 2
+            "tipo": 2,
+            "precio": "11",
+            "alergenos": [ 1, 4, 5, 6 ] 
         },
         {
             "nombre": "Civet de porc fer",
-            "tipo": 2
+            "tipo": 2,
+            "precio": "13,50",
+            "alergenos": [ 1, 4, 6 ] 
         },
         {
             "nombre": "Cabrit al forn amb picada",
-            "tipo": 2
+            "tipo": 2,
+            "precio": "14,95",
+            "alergenos": [ 1, 4, 6 ]
         },
         {
             "nombre": "Mel i matò",
-            "tipo": 3
+            "tipo": 3,
+            "precio": "4,95",
+            "alergenos": [ 6 ]
         },
         {
             "nombre": "Coca dolça",
-            "tipo": 3
+            "tipo": 3,
+            "precio": "4,95",
+            "alergenos": [ 1, 4, 5, 6 ]
         },
         {
             "nombre": "Crema cremada",
-            "tipo": 3
+            "tipo": 3,
+            "precio": "4,95",
+            "alergenos": [ 1, 2, 6 ]
         },
         {
             "nombre": "Panellets",
-            "tipo": 3
+            "tipo": 3,
+            "precio": "4,95",
+            "alergenos": [ 1, 2, 4 ]
         }
     ]
 }
