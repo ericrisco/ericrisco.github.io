@@ -1,0 +1,52 @@
+{
+    "platos":[
+        {
+            "nombre": "Trinxat",
+            "tipo": 1
+        },
+        {
+            "nombre": "Amanida de xicoies",
+            "tipo": 1
+        },
+        {
+            "nombre": "Cargols a la Llauna",
+            "tipo": 1
+        },
+        {
+            "nombre": "Escudella",
+            "tipo": 1
+        },
+        {
+            "nombre": "Botifarra amb seques",
+            "tipo": 2
+        },
+        {
+            "nombre": "Arròs de muntanya",
+            "tipo": 2
+        },
+        {
+            "nombre": "Civet de porc fer",
+            "tipo": 2
+        },
+        {
+            "nombre": "Cabrit al forn amb picada",
+            "tipo": 2
+        },
+        {
+            "nombre": "Mel i matò",
+            "tipo": 3
+        },
+        {
+            "nombre": "Coca dolça",
+            "tipo": 3
+        },
+        {
+            "nombre": "Crema cremada",
+            "tipo": 3
+        },
+        {
+            "nombre": "Panellets",
+            "tipo": 3
+        }
+    ]
+}
