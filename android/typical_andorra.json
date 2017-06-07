@@ -2,74 +2,98 @@
     "platos":[
         {
             "nombre": "Trinxat",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://m1.visitandorra.com/var/andorra/storage/images/media/images/trinxat-compressor/21117114-1-cat-ES/trinxat-compressor_size550x310.jpg",
             "tipo": 1,
             "precio": "5",
             "alergenos": []
         },
         {
             "nombre": "Amanida de xicoies",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://restaurant-canbenet.com/wp-content/uploads/2016/04/XICOIES-AMB-VINAGRETA-D-AL-I-TORRADETA.jpg",
             "tipo": 1,
             "precio": "4",
             "alergenos": []
         },
         {
             "nombre": "Cargols a la Llauna",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/7a/48/0e/cargols-a-la-llauna.jpg",
             "tipo": 1,
             "precio": "6",
             "alergenos": [ 1 ] 
         },
         {
             "nombre": "Escudella",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://www.spain-recipes.com/images/escudella.jpg",
             "tipo": 1,
             "precio": "7",
             "alergenos": [ 1 , 2, 3 ] 
         },
         {
             "nombre": "Botifarra amb seques",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://2.bp.blogspot.com/-opt1_DyUyTw/UC-qpt0D-yI/AAAAAAAB9jc/70yWXarqcgA/s1600/IMG_0745.JPG",
             "tipo": 2,
             "precio": "6",
             "alergenos": [ 1, 4 ] 
         },
         {
             "nombre": "Arròs de muntanya",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://www.andorradifusio.ad/Images/Noticies/arros_29092016.jpg",
             "tipo": 2,
             "precio": "11",
             "alergenos": [ 1, 4, 5, 6 ] 
         },
         {
             "nombre": "Civet de porc fer",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "https://t2.rg.ltmcdn.com/es/images/3/1/8/img_civet_de_jabali_al_vino_tinto_20813_600.jpg",
             "tipo": 2,
-            "precio": "13,50",
+            "precio": "13.50",
             "alergenos": [ 1, 4, 6 ] 
         },
         {
             "nombre": "Cabrit al forn amb picada",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://3.bp.blogspot.com/-SG26uIZfnB4/T6fqBGRFiLI/AAAAAAAAAIc/grWebj7Rptk/s1600/IMG_7100+Espatlla+de+Cabrit+al+Forn+Restaurant+la+Torre.jpg",
             "tipo": 2,
-            "precio": "14,95",
+            "precio": "14.95",
             "alergenos": [ 1, 4, 6 ]
         },
         {
             "nombre": "Mel i matò",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/89/a8/56/mel-i-mato.jpg",
             "tipo": 3,
-            "precio": "4,95",
+            "precio": "4.95",
             "alergenos": [ 6 ]
         },
         {
             "nombre": "Coca dolça",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://elfornerdealella.com/wp-content/uploads/2015/02/coca-de-forner.jpg",
             "tipo": 3,
-            "precio": "4,95",
+            "precio": "4.95",
             "alergenos": [ 1, 4, 5, 6 ]
         },
         {
             "nombre": "Crema cremada",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "http://www.globeholidays.net/Europe/Spain/Catalonia/Media/Catalunya_Crema_Cremada_3.jpg",
             "tipo": 3,
-            "precio": "4,95",
+            "precio": "4.95",
             "alergenos": [ 1, 2, 6 ]
         },
         {
             "nombre": "Panellets",
+            "descripcion": "Kevin pork loin ball tip, brisket swine pig beef tri-tip short loin flank. Leberkas cow tongue turkey kevin sausage meatball",
+            "image": "https://images.food52.com/wGqq3g_AeA4EiEj6CMNxdnxeuNI=/753x502/0195858c-c13e-475c-8ede-fc2900977953--Joan_brunes.jpg",
             "tipo": 3,
-            "precio": "4,95",
+            "precio": "4.95",
             "alergenos": [ 1, 2, 4 ]
         }
     ]
