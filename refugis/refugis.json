@@ -6,6 +6,14 @@
             "name_fr": "Refuge Roca de Pimes",
             "name_en": "Roca de Pimes Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 1h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 1h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 1h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 1h.",
+
+            "way": "1h",
+            "way_diffculty": "easy",
+
             "open": "1",
             "water": "0",
             "fireplace": "1",
@@ -31,6 +39,14 @@
             "name_es": "Refugio de Claror",
             "name_fr": "Refuge Claror",
             "name_en": "Claror Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 20 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2-3 hores aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 20 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2-3 horas aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 20 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2-3 heures.",
+            "description_en": "Opened in 1981 and consists of 20 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2-3 hours.",
+            
+            "way": "2-3h",
+            "way_diffculty": "regular",
 
             "open": "1",
             "water": "1",
@@ -58,6 +74,14 @@
             "name_fr": "Refuge Perafita",
             "name_en": "Perafita Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2 hores aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2 horas aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2 heures.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2 hours.",
+
+            "way": "2h",
+            "way_diffculty": "regular",
+
             "open": "1",
             "water": "0",
             "fireplace": "1",
@@ -83,6 +107,14 @@
             "name_es": "Refugio Riu dels Orris",
             "name_fr": "Refuge Riu dels Orris",
             "name_en": "Riu dels Orris Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 3 hores aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 3 horas aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 3 heures.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 3 hours.",
+
+            "way": "3h",
+            "way_diffculty": "regular",
 
             "open": "1",
             "water": "0",
@@ -110,6 +142,14 @@
             "name_fr": "Refuge Pla de les Pedres",
             "name_en": "Pla de les Pedres Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1991 i consta de 5 places. El recorregut fins al refugi és de 20' aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 5 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 20' aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 5 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 20'.",
+            "description_en": "Opened in 1981 and consists of 5 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 20 minutes.",
+
+            "way": "20'",
+            "way_diffculty": "easy",
+
             "open": "1",
             "water": "0",
             "fireplace": "0",
@@ -135,6 +175,14 @@
             "name_es": "Refugio de Siscaró",
             "name_fr": "Refuge Siscaró",
             "name_en": "Siscaró Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 45' aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de  45' aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de  45'.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 45'.",
+
+            "way": "45'",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "1",
@@ -162,6 +210,14 @@
             "name_fr": "Refuge Cabana Sorda",
             "name_en": "Cabana Sorda Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 20 places. Disposa de lliteres i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 20 plazas. Dispone de literas y chimenea. El recorrido hasta el refugio es de  2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 20 carrés. Il dispose de lits superposés et près de feu. La route vers le refuge est de  2h.",
+            "description_en": "Opened in 1981 and consists of 20 beds. It has bunk beds and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "easy",
+
             "open": "1",
             "water": "0",
             "fireplace": "1",
@@ -187,6 +243,14 @@
             "name_es": "Refugio de Cóms de Jan",
             "name_fr": "Refuge Cóms de Jan",
             "name_en": "Cóms de Jan Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 1h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de  1h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de  1h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 1h.",
+
+            "way": "1h",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "0",
@@ -214,8 +278,16 @@
             "name_fr": "Refuge Angonella",
             "name_en": "Angonella Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1989 i consta de 6 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 4:30h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1989 y consta de 6 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 4:30h aproximadamente.",
+            "description_fr": "Ouvert en 1989 et se compose de 6 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de  4:30h.",
+            "description_en": "Opened in 1989 and consists of 6 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 4:30h.",
+
+            "way": "4:30h",
+            "way_diffculty": "hard",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -240,8 +312,16 @@
             "name_fr": "Refuge de les Fonts",
             "name_en": "Fonts Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de  2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "regular",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -266,8 +346,16 @@
             "name_fr": "Refuge Pla de l'Estany",
             "name_en": "Pla de l'Estany Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de  2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "regular",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -291,6 +379,14 @@
             "name_es": "Refugio de Fontverd",
             "name_fr": "Refuge Fontverd",
             "name_en": "Fontverd Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 14 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 14 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 14 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 14 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "1",
@@ -318,6 +414,14 @@
             "name_fr": "Refuge de la Portella",
             "name_en": "Portella Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 6 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 3h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 6 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 3h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 6 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 3h.",
+            "description_en": "Opened in 1981 and consists of 6 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 3h.",
+
+            "way": "3h",
+            "way_diffculty": "regular",
+
             "open": "1",
             "water": "1",
             "fireplace": "1",
@@ -344,8 +448,16 @@
             "name_fr": "Refuge de la Vall del Riu",
             "name_en": "Vall del Riu Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "hard",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -369,6 +481,14 @@
             "name_es": "Refugio de Ribaescorjada",
             "name_fr": "Refuge de Ribaescorjada",
             "name_en": "Ribaescorjada Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 6 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 3h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 6 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 3h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 6 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 3h.",
+            "description_en": "Opened in 1981 and consists of 6 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 3h.",
+
+            "way": "3h",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "1",
@@ -396,8 +516,16 @@
             "name_fr": "Refuge de Montmalús",
             "name_en": "Montmalús Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "hard",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -422,8 +550,16 @@
             "name_fr": "Refuge Agols",
             "name_en": "Agols Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "regular",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -447,6 +583,14 @@
             "name_es": "Refugio de Ensagents",
             "name_fr": "Refuge Ensagents",
             "name_en": "Ensagents Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 14 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 14 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 14 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 14 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "1",
@@ -474,6 +618,14 @@
             "name_fr": "Refuge Rialb",
             "name_en": "Rialb Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres i llar de foc. El recorregut fins al refugi és de 1h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas y chimenea. El recorrido hasta el refugio es de 1h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés et près de feu. La route vers le refuge est de 1h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds and fireplace. The route to the shelter is approximately 1h.",
+
+            "way": "1h",
+            "way_diffculty": "easy",
+
             "open": "1",
             "water": "0",
             "fireplace": "1",
@@ -499,6 +651,14 @@
             "name_es": "Refugio de Comaubaga",
             "name_fr": "Refuge Comaubaga",
             "name_en": "Comaubaga Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 15 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 15 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 15 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 15 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "hard",
 
             "open": "1",
             "water": "1",
@@ -526,8 +686,16 @@
             "name_fr": "Refuge Prat Primer",
             "name_en": "Prat Primer Hut",
 
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "hard",
+
             "open": "1",
-            "water": "0",
+            "water": "1",
             "fireplace": "1",
             "pay": "0",
             "bar": "0",
@@ -551,6 +719,14 @@
             "name_es": "Refugio de Francolí",
             "name_fr": "Refuge Francolí",
             "name_en": "Francolí Hut",
+
+            "description_ca": "Refugi no guardat obert tot l'any. Inaugurat l'any 1981 i consta de 10 places. Disposa de lliteres, aigua aprop i llar de foc. El recorregut fins al refugi és de 10' aproximadament.",
+            "description_es": "Refugio no guardado abierto todo el año. Inaugurado en 1981 y consta de 10 plazas. Dispone de literas, agua cerca y chimenea. El recorrido hasta el refugio es de 10' aproximadamente.",
+            "description_fr": "Ouvert en 1981 et se compose de 10 carrés. Il dispose de lits superposés, de l'eau et près de feu. La route vers le refuge est de 10'.",
+            "description_en": "Opened in 1981 and consists of 10 beds. It has bunk beds, near water and fireplace. The route to the shelter is approximately 10'.",
+
+            "way": "10'",
+            "way_diffculty": "easy",
 
             "open": "1",
             "water": "1",
@@ -578,6 +754,14 @@
             "name_fr": "Refuge Juclà",
             "name_en": "Juclà Hut",
 
+            "description_ca": "Refugi guardat obert durant l'estiu. Inaugurat l'any 1990 i consta de 50 places. DLlar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio guardado abierto en verano. Inaugurado en 1990 y consta de 50 plazas. Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1990 et se compose de 50 carrés. Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1990 and consists of 50 beds. Fireplace, table and benches. Water near, bar, food, showers.. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "regular",
+
             "open": "0",
             "water": "1",
             "fireplace": "1",
@@ -603,6 +787,14 @@
             "name_es": "Refugio de Sorteny",
             "name_fr": "Refuge Sorteny",
             "name_en": "Sorteny Hut",
+
+            "description_ca": "Refugi guardat obert durant l'estiu. Inaugurat l'any 1990 i consta de 50 places. DLlar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes. El recorregut fins al refugi és de 30' aproximadament.",
+            "description_es": "Refugio guardado abierto en verano. Inaugurado en 1990 y consta de 50 plazas. Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas. El recorrido hasta el refugio es de 30' aproximadamente.",
+            "description_fr": "Ouvert en 1990 et se compose de 50 carrés. Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches. La route vers le refuge est de 30'.",
+            "description_en": "Opened in 1990 and consists of 50 beds. Fireplace, table and benches. Water near, bar, food, showers.. The route to the shelter is approximately 30'.",
+
+            "way": "30'",
+            "way_diffculty": "easy",
 
             "open": "0",
             "water": "1",
@@ -630,6 +822,14 @@
             "name_fr": "Refuge Comapedrosa",
             "name_en": "Comapedrosa Hut",
 
+            "description_ca": "Refugi guardat obert durant l'estiu. Inaugurat l'any 1992 i consta de 50 places. DLlar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes. El recorregut fins al refugi és de 2h aproximadament.",
+            "description_es": "Refugio guardado abierto en verano. Inaugurado en 1992 y consta de 50 plazas. Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas. El recorrido hasta el refugio es de 2h aproximadamente.",
+            "description_fr": "Ouvert en 1992 et se compose de 50 carrés. Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches. La route vers le refuge est de 2h.",
+            "description_en": "Opened in 1992 and consists of 50 beds. Fireplace, table and benches. Water near, bar, food, showers.. The route to the shelter is approximately 2h.",
+
+            "way": "2h",
+            "way_diffculty": "easy",
+
             "open": "0",
             "water": "1",
             "fireplace": "1",
@@ -655,6 +855,14 @@
             "name_es": "Refugio de l'Illa",
             "name_fr": "Refuge Illa",
             "name_en": "Illa Hut",
+
+            "description_ca": "Refugi guardat obert durant l'estiu. Inaugurat l'any 1992 i consta de 42 places. DLlar de foc, taula i bancs. Aigua aprop, servei de bar, menjars i dutxes. El recorregut fins al refugi és de 3h aproximadament.",
+            "description_es": "Refugio guardado abierto en verano. Inaugurado en 1992 y consta de 42 plazas. Chimenea, mesa y bancos. Agua cerca, duchas, servicio de bar y comidas. El recorrido hasta el refugio es de 3h aproximadamente.",
+            "description_fr": "Ouvert en 1992 et se compose de 42 carrés. Cheminée, table et bancs. De l'eau proche, bar, restaurant, douches. La route vers le refuge est de 3h.",
+            "description_en": "Opened in 1992 and consists of 42 beds. Fireplace, table and benches. Water near, bar, food, showers.. The route to the shelter is approximately 3h.",
+
+            "way": "3h",
+            "way_diffculty": "regular",
 
             "open": "0",
             "water": "1",
